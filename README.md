@@ -1,7 +1,7 @@
 # warp-plus-cloudflare
 ### [?] How to use this script on ( windows, mac, linux )
 1. First download python and install in your system. [Python +3.8](https://www.python.org/downloads/)
-2. Download [this project]() and extract it
+2. Download [this project](https://github.com/TuanMinPay/warp-plus-cloudflare/releases) and extract it
 3. Open a cmd or terminal or shell in the extracted directory
 4. Change proxies in `proxies.txt` - proxy free in [here](https://free-proxy-list.net/)
 5. Enter `python wp-plus.py`
